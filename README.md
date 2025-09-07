@@ -1,10 +1,8 @@
 This is my firts project of uses npm pacage, I use notify pacage and moment pacage for my pomodoro project
 
 To start the program u should:
-
-nmp instal 
-node index.js {start value} {end value}
-
+nmp instal;
+node index.js {start value} {end value};
 example:
 node index.js 0.40 0.2
 
